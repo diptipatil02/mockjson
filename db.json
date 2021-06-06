@@ -2,7 +2,7 @@
  "Course": [
    {
     "course_name": "MCA"
-    "Duration": "3 Years(6 Sems)",
+    "Duration": "3 Years",
     "About": "MCA (Master of Computer Applications) course is a 2-year postgraduate degree course that imparts theory and practical knowledge on the various aspects of computer applications.MCA Admission is done on the basis of various MCA entrance exams such as MAH MCA course CET and NIMCET, among others, or marks of the last qualifying examination. ",
     "Eligibility": "Graduate in any faculty with minimum 45% marks (40% forreserved category) and Mathematics at XII or higher level.Admission through Entrance Test.",
     "Fees_GC": "15,345",
@@ -10,7 +10,7 @@
   },
   {
    "course_name": "MCOM"
-    "Duration": "2 Years(2 Sems)",
+    "Duration": "2 Years",
     "About": " The Master of Commerce (M.Com) is a 2-year postgraduate or master's degree course offered in commerce colleges across India ",
     "Eligibility": "B.Com / BMS/BBI/BAF Degree & (BMM only forManagement specialization)",
     "Fees_GC": "5,345",
